@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Labranet server">
+    <serverData>
+      <paths name="Labranet server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/phptesting" local="$PROJECT_DIR$" web="/phptesting" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
